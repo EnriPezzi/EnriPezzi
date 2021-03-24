@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EnriPezzi
+- 👀 I’m interested in programmare e mettermi alla porva con programmi sempre più difficili!
+- 🌱 I’m currently learnin le basi della programmazione.
